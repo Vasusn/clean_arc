@@ -184,7 +184,7 @@ class _LoginPageState extends State<LoginPage> {
                         ),
                         const SizedBox(height: 8),
                         Text(
-                          'Username: kminchelle\nPassword: 0lelplR',
+                          'Username: emilys\nPassword: emilyspass',
                           style: TextStyle(color: Colors.amber[800]),
                         ),
                       ],
